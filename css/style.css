@@ -1,16 +1,39 @@
-body {
-  background-color: #ccc;
+html {
+  background: url(../img/bgimg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+hr {
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05) inset, 0px 0px 8px rgba(255, 215, 0, 0.6);
+}
+
+#about_pics {
+  display: inline-block;
+  float: left;
+}
+img {
+    border: 3px solid black;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05) inset, 0px 0px 8px rgba(255, 215, 0, 0.6);
 }
 
 h1 {
   text-align: center;
+  text-shadow: 0 0 3px gold;
 }
 
 h2 {
   text-align: center;
+  font-style: oblique;
 }
 
-nav li {
+h3 {
+  text-shadow: 0 0 5px #fff;
+}
+
+nav ul li {
+  text-shadow: 0 0 10px #000;
   text-decoration: none;
   display: inline-block;
   width: 15%;
@@ -19,7 +42,13 @@ nav li {
   text-align: center;
   margin: 0 50px;
 }
-nav li a:hover {
-  color:#006080;
-/*  text-decoration: underline;*/
+a:hover { text-shadow: 0 0 5px #000;
+}
+
+a:visited {
+  color:white;
+}
+
+.visited {
+  text-decoration: underline;
 }
