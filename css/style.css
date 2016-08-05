@@ -9,10 +9,11 @@ hr {
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05) inset, 0px 0px 8px rgba(255, 215, 0, 0.6);
 }
 
-#about_pics {
-  display: inline-block;
-  float: left;
+.about_pics {
+ display: inline-block;
+ width: 100px;
 }
+
 img {
     border: 3px solid black;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05) inset, 0px 0px 8px rgba(255, 215, 0, 0.6);
@@ -42,13 +43,9 @@ nav ul li {
   text-align: center;
   margin: 0 50px;
 }
-a:hover { text-shadow: 0 0 5px #000;
+a:hover { text-shadow: 0 0 5px #fff;
 }
 
 a:visited {
   color:white;
-}
-
-.visited {
-  text-decoration: underline;
 }
