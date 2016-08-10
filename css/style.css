@@ -1,4 +1,4 @@
-html {
+body {
   background: url(../img/bgimg.jpg) no-repeat center center fixed;
   origin background-size: cover;
   background-size: cover;
@@ -92,7 +92,7 @@ p .strong {
   margin: 3px;
   background-color: black;
 }
-.container {
+.center-block {
   text-align: center;
   color: white;
   text-shadow: 0 0 5px #000;
