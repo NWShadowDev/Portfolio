@@ -11,7 +11,7 @@ _This project is for the sole purpose of evaluating my skills that I learned abo
 ## Setup/Installation Requirements
 
 * _Have Access to the internet to click the .io link for the project_
-[a link](https://NWShadowDev.github.io/Portolio)
+https://NWShadowDev.github.io/Portolio
 
 
 ## Known Bugs
@@ -30,5 +30,5 @@ _ATOM (Text Editor)_
 _Git Bash for Windows_
 
 ### License
-
+https://nwshadowdev.github.io/Portfolio/
 Copyright (c) 2016 **_Amber Farrington_**
