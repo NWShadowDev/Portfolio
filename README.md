@@ -10,13 +10,14 @@ _This project is for the sole purpose of evaluating my skills that I learned abo
 
 ## Setup/Installation Requirements
 
-* _Have Access to the internet to click the .io link for the project_
-https://NWShadowDev.github.io/Portolio
+* _Have Access to the internet_
+
+* _Click the [Project link](https://NWShadowDev.github.io/Portolio)_
 
 
 ## Known Bugs
 
-_The elements on the page do not scale based on viewpoint. Some views may alter the elements._
+_The elements on the page do not scale based on viewport or size of the device you are using_
 
 ## Support and contact details
 
@@ -28,6 +29,8 @@ amberf0712@outlook.com_
 _Git Hub_
 _ATOM (Text Editor)_
 _Git Bash for Windows_
+_HTML 5_
+_CSS 3_
 
 ### License
 https://nwshadowdev.github.io/Portfolio/
